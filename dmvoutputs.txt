@@ -1,0 +1,118 @@
+Data for DMV Office Northgate Market
+
+Summary Data
+Clerk1 processes 13 drivers
+Clerk2 processes 13 drivers
+Clerk3 processes 13 drivers
+Clerk4 processes 12 drivers
+Clerk5 processes 12 drivers
+Clerk6 processes 11 drivers
+Clerk7 processes 12 drivers
+Clerk8 processes 14 drivers
+
+The Average total time in office per driver for 18 Senior Drivers is 8.61 minutes
+The Average total time in office per driver for 60 Renewing Drivers is 37.03 minutes
+The Average total time in office per driver for 22 First Time Drivers is 64.05 minutes
+The average total time in office per driver for 100 Drivers is 37.86 minutes
+
+DRIVER ID                     DRIVER TYPE         LICENSE TYPE           LICENSE ID         ARRIVAL TIME            WAIT TIME       INTERVIEW TIME           TOTAL TIME                 COST
+CAL Senior STD1113                Senior             Standard               STD11                 1                     4                 4                      8 	$                   32.50
+CAL Senior STD5764                Senior             Standard               STD57                 5                     0                 4                      4 	$                   32.50
+CAL Senior COMM526                Senior           Commercial               COMM5                 2                     3                 5                      8 	$                  125.75
+CAL Senior STD2328                Senior             Standard               STD23                 2                     3                 5                      8 	$                   32.50
+CAL Senior STD2530                Senior             Standard               STD25                 2                     3                 5                      8 	$                   32.50
+CAL Senior COMM422                Senior           Commercial               COMM4                 1                     4                 6                     10 	$                  125.75
+CAL Senior STD4653                Senior             Standard               STD46                 4                     1                 6                      7 	$                   32.50
+CAL Senior STD79                  Senior             Standard                STD7                 0                     5                 7                     12 	$                   32.50
+CAL Senior COMM865                Senior           Commercial               COMM8                 5                     4                 4                      8 	$                  125.75
+CAL Senior STD5461                Senior             Standard               STD54                 5                     4                 4                      8 	$                   32.50
+CAL Senior STD7381                Senior             Standard               STD73                 7                     4                 4                      8 	$                   32.50
+CAL Senior STD6674                Senior             Standard               STD66                 6                     4                 6                     10 	$                   32.50
+CAL Senior STD6775                Senior             Standard               STD67                 6                     4                 6                     10 	$                   32.50
+CAL Senior STD7684                Senior             Standard               STD76                 7                     4                 5                      9 	$                   32.50
+CAL Senior STD8694                Senior             Standard               STD86                 9                     3                 5                      8 	$                   32.50
+CAL Senior STD6270                Senior             Standard               STD62                 6                     4                 7                     11 	$                   32.50
+CAL Senior STD8999                Senior             Standard               STD89                 9                     4                 4                      8 	$                   32.50
+CAL Renewing COMM12             Renewing           Commercial               COMM1                 0                    15                 4                     19 	$                  125.75
+CAL Senior COMM1098               Senior           Commercial              COMM10                 9                     4                 6                     10 	$                  125.75
+CAL Renewing STD810             Renewing             Standard                STD8                 0                    17                 4                     21 	$                   32.50
+CAL Renewing COMM24             Renewing           Commercial               COMM2                 0                    16                 7                     23 	$                  125.75
+CAL Renewing STD911             Renewing             Standard                STD9                 0                    16                 7                     23 	$                   32.50
+CAL Renewing STD11              Renewing             Standard                STD1                 0                    16                 7                     23 	$                   32.50
+CAL Renewing STD35              Renewing             Standard                STD3                 0                    17                 7                     24 	$                   32.50
+CAL Renewing STD23              Renewing             Standard                STD2                 0                    17                 7                     24 	$                   32.50
+CAL Renewing STD46              Renewing             Standard                STD4                 0                    19                 6                     25 	$                   32.50
+CAL Renewing STD57              Renewing             Standard                STD5                 0                    19                 7                     26 	$                   32.50
+CAL Renewing STD1417            Renewing             Standard               STD14                 1                    22                 4                     26 	$                   32.50
+CAL Renewing COMM316            Renewing           Commercial               COMM3                 1                    20                 7                     27 	$                  125.75
+CAL Renewing STD2024            Renewing             Standard               STD20                 1                    23                 4                     27 	$                   32.50
+CAL Renewing STD1518            Renewing             Standard               STD15                 1                    22                 6                     28 	$                   32.50
+CAL Renewing STD1619            Renewing             Standard               STD16                 1                    22                 6                     28 	$                   32.50
+CAL Renewing STD1214            Renewing             Standard               STD12                 1                    24                 5                     29 	$                   32.50
+CAL Renewing STD2733            Renewing             Standard               STD27                 2                    25                 4                     29 	$                   32.50
+CAL Renewing STD1923            Renewing             Standard               STD19                 1                    23                 7                     30 	$                   32.50
+CAL Renewing STD1315            Renewing             Standard               STD13                 1                    25                 7                     32 	$                   32.50
+CAL Renewing STD2935            Renewing             Standard               STD29                 2                    26                 5                     31 	$                   32.50
+CAL Renewing COMM632            Renewing           Commercial               COMM6                 2                    26                 6                     32 	$                  125.75
+CAL Renewing STD2227            Renewing             Standard               STD22                 2                    27                 5                     32 	$                   32.50
+CAL Renewing STD2429            Renewing             Standard               STD24                 2                    28                 5                     33 	$                   32.50
+CAL Renewing STD2631            Renewing             Standard               STD26                 2                    29                 5                     34 	$                   32.50
+CAL Renewing STD2125            Renewing             Standard               STD21                 2                    27                 7                     34 	$                   32.50
+CAL Renewing STD3339            Renewing             Standard               STD33                 3                    30                 4                     34 	$                   32.50
+CAL Renewing STD3440            Renewing             Standard               STD34                 3                    31                 4                     35 	$                   32.50
+CAL Renewing STD3137            Renewing             Standard               STD31                 3                    28                 7                     35 	$                   32.50
+CAL Renewing STD3238            Renewing             Standard               STD32                 3                    30                 6                     36 	$                   32.50
+CAL Renewing COMM743            Renewing           Commercial               COMM7                 3                    32                 5                     37 	$                  125.75
+CAL Renewing STD4047            Renewing             Standard               STD40                 3                    33                 4                     37 	$                   32.50
+CAL Renewing STD3642            Renewing             Standard               STD36                 3                    31                 6                     37 	$                   32.50
+CAL Renewing STD4855            Renewing             Standard               STD48                 4                    33                 4                     37 	$                   32.50
+CAL Renewing STD4249            Renewing             Standard               STD42                 4                    34                 4                     38 	$                   32.50
+CAL Renewing STD3744            Renewing             Standard               STD37                 3                    33                 7                     40 	$                   32.50
+CAL Renewing STD4552            Renewing             Standard               STD45                 4                    36                 4                     40 	$                   32.50
+CAL Renewing STD4451            Renewing             Standard               STD44                 4                    35                 6                     41 	$                   32.50
+CAL Renewing STD4350            Renewing             Standard               STD43                 4                    34                 7                     41 	$                   32.50
+CAL Renewing STD5057            Renewing             Standard               STD50                 4                    36                 5                     41 	$                   32.50
+CAL Renewing STD5158            Renewing             Standard               STD51                 4                    37                 5                     42 	$                   32.50
+CAL Renewing STD5360            Renewing             Standard               STD53                 4                    39                 4                     43 	$                   32.50
+CAL Renewing STD4754            Renewing             Standard               STD47                 4                    36                 7                     43 	$                   32.50
+CAL Renewing STD5259            Renewing             Standard               STD52                 4                    38                 6                     44 	$                   32.50
+CAL Renewing STD5967            Renewing             Standard               STD59                 5                    40                 4                     44 	$                   32.50
+CAL Renewing STD6068            Renewing             Standard               STD60                 5                    39                 6                     45 	$                   32.50
+CAL Renewing STD7078            Renewing             Standard               STD70                 7                    40                 4                     44 	$                   32.50
+CAL Renewing STD6472            Renewing             Standard               STD64                 6                    39                 6                     45 	$                   32.50
+CAL Renewing STD6573            Renewing             Standard               STD65                 6                    39                 6                     45 	$                   32.50
+CAL Renewing STD6169            Renewing             Standard               STD61                 6                    41                 6                     47 	$                   32.50
+CAL Renewing STD6876            Renewing             Standard               STD68                 6                    40                 7                     47 	$                   32.50
+CAL Renewing STD7583            Renewing             Standard               STD75                 7                    42                 5                     47 	$                   32.50
+CAL Renewing STD7482            Renewing             Standard               STD74                 7                    41                 7                     48 	$                   32.50
+CAL Renewing STD7886            Renewing             Standard               STD78                 8                    42                 6                     48 	$                   32.50
+CAL Renewing STD7987            Renewing             Standard               STD79                 8                    45                 4                     49 	$                   32.50
+CAL Renewing STD8593            Renewing             Standard               STD85                 9                    45                 4                     49 	$                   32.50
+CAL Renewing STD8189            Renewing             Standard               STD81                 8                    43                 7                     50 	$                   32.50
+CAL Renewing STD8088            Renewing             Standard               STD80                 8                    43                 7                     50 	$                   32.50
+CAL Renewing STD8391            Renewing             Standard               STD83                 8                    43                 7                     50 	$                   32.50
+CAL Renewing STD8795            Renewing             Standard               STD87                 9                    46                 5                     51 	$                   32.50
+CAL Renewing COMM997            Renewing           Commercial               COMM9                 9                    47                 4                     51 	$                  125.75
+CAL Renewing STD8896            Renewing             Standard               STD88                 9                    44                 7                     51 	$                   32.50
+CAL FirstTime  STD1012          FirstTime              Standard               STD10                 0                    58                 4                     62 	$                   32.50
+CAL FirstTime  STD68          FirstTime              Standard                STD6                 0                    57                 6                     63 	$                   32.50
+CAL FirstTime  STD1720          FirstTime              Standard               STD17                 1                    57                 5                     62 	$                   32.50
+CAL FirstTime  STD1821          FirstTime              Standard               STD18                 1                    57                 5                     62 	$                   32.50
+CAL FirstTime  STD3036          FirstTime              Standard               STD30                 2                    56                 5                     61 	$                   32.50
+CAL FirstTime  STD2834          FirstTime              Standard               STD28                 2                    58                 4                     62 	$                   32.50
+CAL FirstTime  STD3845          FirstTime              Standard               STD38                 3                    57                 5                     62 	$                   32.50
+CAL FirstTime  STD3541          FirstTime              Standard               STD35                 3                    57                 5                     62 	$                   32.50
+CAL FirstTime  STD4956          FirstTime              Standard               STD49                 4                    59                 4                     63 	$                   32.50
+CAL FirstTime  STD5866          FirstTime              Standard               STD58                 5                    58                 5                     63 	$                   32.50
+CAL FirstTime  STD4148          FirstTime              Standard               STD41                 3                    59                 7                     66 	$                   32.50
+CAL FirstTime  STD5562          FirstTime              Standard               STD55                 5                    58                 6                     64 	$                   32.50
+CAL FirstTime  STD7280          FirstTime              Standard               STD72                 7                    58                 4                     62 	$                   32.50
+CAL FirstTime  STD5663          FirstTime              Standard               STD56                 5                    59                 6                     65 	$                   32.50
+CAL FirstTime  STD3946          FirstTime              Standard               STD39                 3                    60                 7                     67 	$                   32.50
+CAL FirstTime  STD6977          FirstTime              Standard               STD69                 7                    60                 4                     64 	$                   32.50
+CAL FirstTime  STD6371          FirstTime              Standard               STD63                 6                    59                 7                     66 	$                   32.50
+CAL FirstTime  STD7179          FirstTime              Standard               STD71                 7                    61                 4                     65 	$                   32.50
+CAL FirstTime  STD7785          FirstTime              Standard               STD77                 8                    61                 4                     65 	$                   32.50
+CAL FirstTime  STD90100          FirstTime              Standard               STD90                 9                    61                 6                     67 	$                   32.50
+CAL FirstTime  STD8492          FirstTime              Standard               STD84                 8                    61                 7                     68 	$                   32.50
+CAL FirstTime  STD8290          FirstTime              Standard               STD82                 8                    61                 7                     68 	$                   32.50
