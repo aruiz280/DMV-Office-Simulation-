@@ -26,7 +26,7 @@ public class SeniorDriver extends Driver {
 		
 	}
 	
-	///////confused hereeeeee
+	
 	@Override
     public int compareTo(Driver otherDriver) {
         String otherType = otherDriver.getDriverType();
